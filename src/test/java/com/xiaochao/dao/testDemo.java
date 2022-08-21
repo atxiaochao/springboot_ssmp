@@ -8,5 +8,6 @@ public class testDemo {
         System.out.println("master测试");
         System.out.println("hot-fix测试");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
